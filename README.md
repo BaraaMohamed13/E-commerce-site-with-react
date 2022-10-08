@@ -25,9 +25,7 @@ npm start
 ```
 
 
-### Deployment
 
-This application is live on [CodeSandBox](https://xux3d.csb.app/home) 
 
 
 ## Built With
